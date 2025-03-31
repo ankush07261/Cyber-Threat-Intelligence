@@ -1,0 +1,380 @@
+[
+    {
+        "timestamp": "1743407977.392966000",
+        "source_ip": "192.168.1.1",
+        "destination_ip": "192.168.1.255",
+        "protocol": "17",
+        "packet_size": "363"
+    },
+    {
+        "timestamp": "1743407977.495633000",
+        "source_ip": "",
+        "destination_ip": "",
+        "protocol": "",
+        "packet_size": "42"
+    },
+    {
+        "timestamp": "1743407977.495674000",
+        "source_ip": "",
+        "destination_ip": "",
+        "protocol": "",
+        "packet_size": "42"
+    },
+    {
+        "timestamp": "1743407977.604722000",
+        "source_ip": "192.168.1.4",
+        "destination_ip": "52.178.17.234",
+        "protocol": "6",
+        "packet_size": "172"
+    },
+    {
+        "timestamp": "1743407977.604934000",
+        "source_ip": "192.168.1.4",
+        "destination_ip": "52.178.17.234",
+        "protocol": "6",
+        "packet_size": "4510"
+    },
+    {
+        "timestamp": "1743407977.802641000",
+        "source_ip": "52.178.17.234",
+        "destination_ip": "192.168.1.4",
+        "protocol": "6",
+        "packet_size": "54"
+    },
+    {
+        "timestamp": "1743407977.802641000",
+        "source_ip": "52.178.17.234",
+        "destination_ip": "192.168.1.4",
+        "protocol": "6",
+        "packet_size": "54"
+    },
+    {
+        "timestamp": "1743407977.871542000",
+        "source_ip": "",
+        "destination_ip": "",
+        "protocol": "",
+        "packet_size": "75"
+    },
+    {
+        "timestamp": "1743407977.884621000",
+        "source_ip": "",
+        "destination_ip": "",
+        "protocol": "",
+        "packet_size": "86"
+    },
+    {
+        "timestamp": "1743407977.935539000",
+        "source_ip": "52.178.17.234",
+        "destination_ip": "192.168.1.4",
+        "protocol": "6",
+        "packet_size": "153"
+    },
+    {
+        "timestamp": "1743407977.991229000",
+        "source_ip": "192.168.1.4",
+        "destination_ip": "52.178.17.234",
+        "protocol": "6",
+        "packet_size": "54"
+    },
+    {
+        "timestamp": "1743407980.772797000",
+        "source_ip": "52.178.17.234",
+        "destination_ip": "192.168.1.4",
+        "protocol": "6",
+        "packet_size": "54"
+    },
+    {
+        "timestamp": "1743407980.772797000",
+        "source_ip": "52.178.17.234",
+        "destination_ip": "192.168.1.4",
+        "protocol": "6",
+        "packet_size": "54"
+    },
+    {
+        "timestamp": "1743407980.793191000",
+        "source_ip": "",
+        "destination_ip": "",
+        "protocol": "",
+        "packet_size": "86"
+    },
+    {
+        "timestamp": "1743407980.793360000",
+        "source_ip": "",
+        "destination_ip": "",
+        "protocol": "",
+        "packet_size": "86"
+    },
+    {
+        "timestamp": "1743407980.938272000",
+        "source_ip": "",
+        "destination_ip": "",
+        "protocol": "",
+        "packet_size": "75"
+    },
+    {
+        "timestamp": "1743407980.951472000",
+        "source_ip": "",
+        "destination_ip": "",
+        "protocol": "",
+        "packet_size": "86"
+    },
+    {
+        "timestamp": "1743407981.387938000",
+        "source_ip": "",
+        "destination_ip": "",
+        "protocol": "",
+        "packet_size": "141"
+    },
+    {
+        "timestamp": "1743407981.399957000",
+        "source_ip": "",
+        "destination_ip": "",
+        "protocol": "",
+        "packet_size": "97"
+    },
+    {
+        "timestamp": "1743407981.500007000",
+        "source_ip": "",
+        "destination_ip": "",
+        "protocol": "",
+        "packet_size": "112"
+    },
+    {
+        "timestamp": "1743407981.511522000",
+        "source_ip": "",
+        "destination_ip": "",
+        "protocol": "",
+        "packet_size": "281"
+    },
+    {
+        "timestamp": "1743407981.514680000",
+        "source_ip": "192.168.1.4",
+        "destination_ip": "52.178.17.234",
+        "protocol": "6",
+        "packet_size": "66"
+    },
+    {
+        "timestamp": "1743407981.694200000",
+        "source_ip": "52.178.17.234",
+        "destination_ip": "192.168.1.4",
+        "protocol": "6",
+        "packet_size": "66"
+    },
+    {
+        "timestamp": "1743407983.872180000",
+        "source_ip": "",
+        "destination_ip": "",
+        "protocol": "",
+        "packet_size": "1292"
+    },
+    {
+        "timestamp": "1743407983.872180000",
+        "source_ip": "",
+        "destination_ip": "",
+        "protocol": "",
+        "packet_size": "360"
+    },
+    {
+        "timestamp": "1743407983.872180000",
+        "source_ip": "",
+        "destination_ip": "",
+        "protocol": "",
+        "packet_size": "994"
+    },
+    {
+        "timestamp": "1743407983.872180000",
+        "source_ip": "",
+        "destination_ip": "",
+        "protocol": "",
+        "packet_size": "107"
+    },
+    {
+        "timestamp": "1743407983.872180000",
+        "source_ip": "",
+        "destination_ip": "",
+        "protocol": "",
+        "packet_size": "86"
+    },
+    {
+        "timestamp": "1743407983.873408000",
+        "source_ip": "",
+        "destination_ip": "",
+        "protocol": "",
+        "packet_size": "140"
+    },
+    {
+        "timestamp": "1743407983.873623000",
+        "source_ip": "",
+        "destination_ip": "",
+        "protocol": "",
+        "packet_size": "93"
+    },
+    {
+        "timestamp": "1743407983.874217000",
+        "source_ip": "",
+        "destination_ip": "",
+        "protocol": "",
+        "packet_size": "1288"
+    },
+    {
+        "timestamp": "1743407983.874521000",
+        "source_ip": "",
+        "destination_ip": "",
+        "protocol": "",
+        "packet_size": "1033"
+    },
+    {
+        "timestamp": "1743407983.884721000",
+        "source_ip": "",
+        "destination_ip": "",
+        "protocol": "",
+        "packet_size": "182"
+    },
+    {
+        "timestamp": "1743407983.885796000",
+        "source_ip": "",
+        "destination_ip": "",
+        "protocol": "",
+        "packet_size": "87"
+    },
+    {
+        "timestamp": "1743407983.886661000",
+        "source_ip": "",
+        "destination_ip": "",
+        "protocol": "",
+        "packet_size": "91"
+    },
+    {
+        "timestamp": "1743407983.887215000",
+        "source_ip": "",
+        "destination_ip": "",
+        "protocol": "",
+        "packet_size": "94"
+    },
+    {
+        "timestamp": "1743407983.937511000",
+        "source_ip": "",
+        "destination_ip": "",
+        "protocol": "",
+        "packet_size": "1279"
+    },
+    {
+        "timestamp": "1743407983.937511000",
+        "source_ip": "",
+        "destination_ip": "",
+        "protocol": "",
+        "packet_size": "106"
+    },
+    {
+        "timestamp": "1743407983.938422000",
+        "source_ip": "",
+        "destination_ip": "",
+        "protocol": "",
+        "packet_size": "97"
+    },
+    {
+        "timestamp": "1743407983.951797000",
+        "source_ip": "",
+        "destination_ip": "",
+        "protocol": "",
+        "packet_size": "42"
+    },
+    {
+        "timestamp": "1743407983.974511000",
+        "source_ip": "",
+        "destination_ip": "",
+        "protocol": "",
+        "packet_size": "86"
+    },
+    {
+        "timestamp": "1743407983.995172000",
+        "source_ip": "52.178.17.234",
+        "destination_ip": "192.168.1.4",
+        "protocol": "6",
+        "packet_size": "54"
+    },
+    {
+        "timestamp": "1743407983.995427000",
+        "source_ip": "52.178.17.234",
+        "destination_ip": "192.168.1.4",
+        "protocol": "6",
+        "packet_size": "54"
+    },
+    {
+        "timestamp": "1743407983.995811000",
+        "source_ip": "52.178.17.234",
+        "destination_ip": "192.168.1.4",
+        "protocol": "6",
+        "packet_size": "54"
+    },
+    {
+        "timestamp": "1743407983.996264000",
+        "source_ip": "52.178.17.234",
+        "destination_ip": "192.168.1.4",
+        "protocol": "6",
+        "packet_size": "54"
+    },
+    {
+        "timestamp": "1743407983.997537000",
+        "source_ip": "52.178.17.234",
+        "destination_ip": "192.168.1.4",
+        "protocol": "6",
+        "packet_size": "54"
+    },
+    {
+        "timestamp": "1743407984.458490000",
+        "source_ip": "192.168.1.1",
+        "destination_ip": "192.168.1.255",
+        "protocol": "17",
+        "packet_size": "363"
+    },
+    {
+        "timestamp": "1743407984.818421000",
+        "source_ip": "192.168.1.4",
+        "destination_ip": "192.168.1.1",
+        "protocol": "17",
+        "packet_size": "110"
+    },
+    {
+        "timestamp": "1743407987.047330000",
+        "source_ip": "192.168.1.4",
+        "destination_ip": "52.178.17.234",
+        "protocol": "6",
+        "packet_size": "172"
+    },
+    {
+        "timestamp": "1743407987.047433000",
+        "source_ip": "192.168.1.4",
+        "destination_ip": "52.178.17.234",
+        "protocol": "6",
+        "packet_size": "2259"
+    },
+    {
+        "timestamp": "1743407987.223527000",
+        "source_ip": "52.178.17.234",
+        "destination_ip": "192.168.1.4",
+        "protocol": "6",
+        "packet_size": "54"
+    },
+    {
+        "timestamp": "1743407987.283102000",
+        "source_ip": "192.168.1.4",
+        "destination_ip": "20.62.154.72",
+        "protocol": "6",
+        "packet_size": "54"
+    },
+    {
+        "timestamp": "1743407987.531221000",
+        "source_ip": "20.62.154.72",
+        "destination_ip": "192.168.1.4",
+        "protocol": "6",
+        "packet_size": "54"
+    },
+    {
+        "timestamp": "1743407987.531299000",
+        "source_ip": "192.168.1.4",
+        "destination_ip": "20.62.154.72",
+        "protocol": "6",
+        "packet_size": "54"
+    }
+]
